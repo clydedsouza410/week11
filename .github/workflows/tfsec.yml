@@ -6,7 +6,6 @@
 name: tfsec
 
 on:
-  on:
   push:
     branches: [ prod, staging, dev ]
   pull_request:
